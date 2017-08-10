@@ -1,0 +1,48 @@
+
+
+.dataframe {
+    font-size: 85% !important;
+}
+
+.dataframe th {
+    text-align: center !important;
+}
+
+
+
+.output_wrapper, .output {
+    height:auto !important;
+    max-height: 700px;  /* your desired max-height here */
+}
+.output_scroll {
+    box-shadow:none !important;
+    webkit-box-shadow:none !important;
+}
+
+.col2 {
+columns: 2 200px;         /* number of columns and width in pixels*/
+-webkit-columns: 2 200px; /* chrome, safari */
+-moz-columns: 2 200px;    /* firefox */
+ column-gap: 40px;
+}
+
+code {
+    font-size: 60% !important;
+}
+
+.clear {
+  clear:both;
+}
+
+.fragment {
+  clear : center !important;
+}
+
+h3{
+  margin-top:10px !important;
+  margin-bottom: 0px !important;
+}
+ul{
+ margin-top:10px !important;
+  margin-bottom: 0px !important;   
+}
